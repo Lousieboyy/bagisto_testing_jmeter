@@ -1,20 +1,20 @@
-This repository showcases comprehensive testing for the Bagistro eCommerce mobile/web application — a Laravel-based multichannel marketplace platform. It includes automated test suites, performance benchmarks, and quality assurance reports demonstrating rigorous testing practices for a real-world eCommerce system.
+This repository showcases comprehensive testing for the Bagistro eCommerce mobile application — a Laravel-based multichannel marketplace platform. It includes automated mobile UI test suites, performance benchmarks, and quality assurance reports demonstrating rigorous testing practices for a real-world eCommerce system using Maestro.
 
 What's Included
-Automated Tests: Unit, integration, and end-to-end tests using PHPUnit, Selenium, and Appium
+Automated Mobile Tests: End-to-end (E2E) mobile UI flows and regression test suites written entirely in Maestro.
 
-Performance Testing: Load & stress test results from JMeter (concurrent users, response times)
+Performance Testing: Load & stress test results capturing concurrent mobile user flows and API response times.
 
-Test Coverage: Code coverage reports and quality metrics
+Test Coverage: Quality metrics and execution reports for the mobile application.
 
-Documentation: Testing strategy, setup instructions, and results summaries
+Documentation: Testing strategy, Maestro setup instructions, and test results summaries.
 
 Tech Stack
 Backend: Laravel, PHP
 
-Testing Tools: PHPUnit, Selenium, Appium, Laravel Dusk, Pest, JMeter, Maestro
+Frontend: Flutter (Mobile)
 
-Frontend: Flutter (mobile), JavaScript/TypeScript (web)
+Testing Tool: Maestro
 
 Purpose
-This project demonstrates my software testing expertise for the Bagistro eCommerce platform — ideal for QA professionals, developers, or anyone interested in eCommerce application quality assurance.
+This project demonstrates my mobile software testing expertise for the Bagistro eCommerce platform using modern UI automation workflows — ideal for QA professionals, developers, or anyone interested in mobile eCommerce application quality assurance.
